@@ -101,19 +101,7 @@ Arduino B
 * SPI
 * nRF24L01
 
-## Project Structure
 
-```text
-Secure-Wireless-Chat/
-│
-├── SecureChat.ino
-├── README.md
-├── images/
-│   ├── circuit_diagram.png
-│   └── demo.png
-└── docs/
-    └── project_report.pdf
-```
 
 ## Example Communication
 
